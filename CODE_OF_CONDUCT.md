@@ -1,25 +1,28 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
-
-We are committed to making participation in this project a harassment-free experience for everyone.
+We pledge to make participation in our community a harassment-free experience for everyone.
 
 ## Our Standards
-
 Positive behavior includes:
 - Being respectful and inclusive
-- Welcoming different opinions and experiences
 - Showing empathy towards others
 
 Unacceptable behavior includes:
 - Harassment or discriminatory comments
 - Personal attacks
-- Publishing others' private information
+
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing standards of acceptable behavior.
+
+## Scope
+This Code of Conduct applies within all community spaces.
 
 ## Enforcement
+Instances of unacceptable behavior may be reported to community leaders.
 
-Instances of unacceptable behavior may be reported to the project maintainers. All complaints will be reviewed and investigated.
+## Enforcement Guidelines
+Community leaders will follow these guidelines in determining consequences for violations.
 
 ## Attribution
-
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
